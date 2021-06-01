@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @huzmasood
-- 👀 I’m interested in backend coding more than frontend coding
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate in open source projects
 - 📫 How to reach me? Just send an email on hmasood2001@gmail.com
